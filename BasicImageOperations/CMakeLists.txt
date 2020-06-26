@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
 set(OpenCV_DIR /home/openqt/cv3/OpenCV-3.4/lib/cmake/opencv4)
-set(SOURCE_FILES ${CMAKE_SOURCE_DIR}/image_addition.cpp)
+set(SOURCE_FILES ${CMAKE_SOURCE_DIR}/subtraction.cpp)
 
 find_package(OpenCV REQUIRED)
 if(OpenCV_FOUND)
