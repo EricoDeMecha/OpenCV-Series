@@ -24,7 +24,7 @@ void sunglassFilter::s_facemarking() {
         // and there can be more than one face in an image
         // so therefore a vector of a vector of points
         vector<vector<Point2f>> landmarks;
-        // run the t facial landmark detector
+        // run the facial landmark detector
         bool success = facemark->fit(frame, faces , landmarks);
         if(success)
         {
