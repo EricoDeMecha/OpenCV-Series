@@ -1,3 +1,0 @@
-/home/openqt/Documents/binaries/dlib-19.20/build/dlib/test_for_libpng_build/CMakeFiles/rebuild_cache.dir
-/home/openqt/Documents/binaries/dlib-19.20/build/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir
-/home/openqt/Documents/binaries/dlib-19.20/build/dlib/test_for_libpng_build/CMakeFiles/edit_cache.dir

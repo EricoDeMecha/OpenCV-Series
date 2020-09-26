@@ -1,2 +1,4 @@
 BasicImageOperations/cmake-build-debug/
-sunGlassFilter/cmake-build-debug
+sunGlassFilter/cmake-build-debug/
+sunGlassFilter/facialLandMarking/dlib/
+sunGlassFilter/facialLandMarking/data/
