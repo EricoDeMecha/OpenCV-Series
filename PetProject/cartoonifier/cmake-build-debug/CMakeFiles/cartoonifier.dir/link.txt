@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cartoonifier.dir/main.cpp.o  -o cartoonifier 

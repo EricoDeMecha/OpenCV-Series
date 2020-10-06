@@ -1,0 +1,5 @@
+/home/openqt/clion-2019.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/ImageAnnotation
+-- Found OpenCV: /home/openqt/cv3/OpenCV-3.4 (found version "4.1.2") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/ImageAnnotation/cmake-build-debug

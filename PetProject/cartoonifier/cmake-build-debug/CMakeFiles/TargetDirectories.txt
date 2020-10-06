@@ -1,0 +1,3 @@
+/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/cmake-build-debug/CMakeFiles/cartoonifier.dir
+/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/cmake-build-debug/CMakeFiles/edit_cache.dir
