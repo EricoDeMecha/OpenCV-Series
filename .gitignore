@@ -2,3 +2,5 @@ BasicImageOperations/cmake-build-debug/
 sunGlassFilter/cmake-build-debug/
 sunGlassFilter/facialLandMarking/dlib/
 sunGlassFilter/facialLandMarking/data/
+ImageAnnotation/cmake-build-debug/
+PetProject/cartoonifier/cmake-build-debug/

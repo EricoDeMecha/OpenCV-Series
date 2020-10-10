@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "../CMakeLists.txt"
+  "../FindZBar0.cmake"
   "CMakeFiles/3.15.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.15.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.15.3/CMakeSystem.cmake"
@@ -28,6 +29,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/openqt/clion-2019.2.5/bin/cmake/linux/share/cmake-3.15/Modules/Compiler/GNU.cmake"
   "/home/openqt/clion-2019.2.5/bin/cmake/linux/share/cmake-3.15/Modules/FindPackageHandleStandardArgs.cmake"
   "/home/openqt/clion-2019.2.5/bin/cmake/linux/share/cmake-3.15/Modules/FindPackageMessage.cmake"
+  "/home/openqt/clion-2019.2.5/bin/cmake/linux/share/cmake-3.15/Modules/FindPkgConfig.cmake"
   "/home/openqt/clion-2019.2.5/bin/cmake/linux/share/cmake-3.15/Modules/Internal/CMakeCheckCompilerFlag.cmake"
   "/home/openqt/clion-2019.2.5/bin/cmake/linux/share/cmake-3.15/Modules/Platform/Linux-GNU-C.cmake"
   "/home/openqt/clion-2019.2.5/bin/cmake/linux/share/cmake-3.15/Modules/Platform/Linux-GNU-CXX.cmake"
@@ -54,5 +56,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/cartoonifier.dir/DependInfo.cmake"
+  "CMakeFiles/QR_Code.dir/DependInfo.cmake"
   )

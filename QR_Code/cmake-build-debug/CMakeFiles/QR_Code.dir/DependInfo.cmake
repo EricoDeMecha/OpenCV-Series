@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/main.cpp" "/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/cmake-build-debug/CMakeFiles/cartoonifier.dir/main.cpp.o"
+  "/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/QR_Code/main.cpp" "/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/QR_Code/cmake-build-debug/CMakeFiles/QR_Code.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -5,7 +5,7 @@
 		<Option title="cartoonifier"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\cv3\;CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\;CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\lib\;CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\lib\cmake\;CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\lib\cmake\opencv4\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/cmake-build-debug"/>
@@ -34,6 +34,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/openqt/cv3/OpenCV-3.4/include/opencv4"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -57,6 +58,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/openqt/cv3/OpenCV-3.4/include/opencv4"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -84,11 +86,26 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/cartoonifier.h">
+			<Option target="cartoonifier"/>
+		</Unit>
 		<Unit filename="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/main.cpp">
 			<Option target="cartoonifier"/>
 		</Unit>
 		<Unit filename="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/../../../../../../cv3/OpenCV-3.4/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/../../../../../../cv3/OpenCV-3.4/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/../../../../../../cv3/OpenCV-3.4/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/openqt/Documents/covid-end/C++openCV_Series/LearnOpenCV/PetProject/cartoonifier/../../../../../../cv3/OpenCV-3.4/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\cv3\OpenCV-3.4\lib\cmake\opencv4\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
